@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulla Al Mued</h1>
+<h1 align="center">Abdulla Al Mued</h1>
 <h3 align="center">Junior Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulla-al-mued&label=Profile%20views&color=0e75b6&style=flat" alt="abdulla-al-mued" /> </p>
